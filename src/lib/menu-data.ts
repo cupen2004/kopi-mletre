@@ -22,11 +22,11 @@ export interface Category {
 }
 
 export const CATEGORIES: Category[] = [
-  { id: "all", name: "Semua Menu", icon: "🍽️" },
-  { id: "kopi", name: "Kopi", icon: "☕" },
-  { id: "non-kopi", name: "Non-Kopi", icon: "🥤" },
-  { id: "makanan", name: "Makanan", icon: "🍛" },
-  { id: "camilan", name: "Camilan", icon: "🍿" },
+  { id: "all", name: "Semua Menu", icon: "" },
+  { id: "kopi", name: "Kopi", icon: "" },
+  { id: "non-kopi", name: "Non-Kopi", icon: "" },
+  { id: "makanan", name: "Makanan", icon: "" },
+  { id: "camilan", name: "Camilan", icon: "" },
 ];
 
 export const MENU_ITEMS: MenuItem[] = [
